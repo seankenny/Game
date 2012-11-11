@@ -20,4 +20,4 @@ Simple really.  Each edge of the 16 tiles needs to match with the surrounds.
 ----R--Y--R--B----  
 
 ##Result
-Lots of YAY-ness
+Lots of YAY-ness!!!
