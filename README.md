@@ -1,1 +1,1 @@
-[[puzzle.jpg]]
+![Puzzle](http://i46.tinypic.com/f9pn5s.jpg)
